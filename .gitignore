@@ -1,3 +1,7 @@
 # Local Netlify folder
-.netlify
+.netlify/functions
+.netlify/functions-serve
+.netlify/netlify.toml
+.netlify/state.json
+.netlify/edge-functions-import-map.json
 node_modules
