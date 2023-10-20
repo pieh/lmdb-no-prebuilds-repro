@@ -2,5 +2,8 @@
   "name": "netlify-lmdb-no-prebuilds",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "lmdb": "2.5.3"
+  }
 }
