@@ -1,0 +1,12 @@
+{
+  "config": {
+    "name": "test",
+    "includedFiles": [
+      "../../node_modules/lmdb/**/*"
+    ],
+    "externalNodeModules": [
+      "msgpackr-extract"
+    ]
+  },
+  "version": 1
+}
