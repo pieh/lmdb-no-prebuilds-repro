@@ -5,3 +5,4 @@
 .netlify/state.json
 .netlify/edge-functions-import-map.json
 node_modules
+nf-debug
